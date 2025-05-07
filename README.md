@@ -1,5 +1,3 @@
-📈###Project Title: Customer Segmentation Using K-Means Clustering
-
 ### Description
 
 This project implements K-Means clustering to analyze and segment mall customers based on their annual income and spending scores. The aim is to uncover meaningful patterns in customer behavior, allowing for targeted marketing strategies.
